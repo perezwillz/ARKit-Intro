@@ -1,0 +1,53 @@
+total 24
+drwxr-xr-x  9 KingPerez  staff   288 Nov 17 19:45 .
+drwxr-xr-x  5 KingPerez  staff   160 Nov 17 19:43 ..
+-rw-r--r--@ 1 KingPerez  staff  2192 Nov 17 18:26 AppDelegate.swift
+	com.apple.TextEncoding	  15 
+drwxr-xr-x  4 KingPerez  staff   128 Nov 17 18:27 Assets.xcassets
+drwxr-xr-x  4 KingPerez  staff   128 Nov 17 18:27 Base.lproj
+-rw-r--r--  1 KingPerez  staff  1583 Nov 17 18:27 Info.plist
+-rw-r--r--@ 1 KingPerez  staff  2165 Nov 17 19:03 ViewController.swift
+	com.apple.lastuseddate#PS	  16 
+	com.apple.quarantine	  62 
+drwxr-xr-x  5 KingPerez  staff   160 Nov 17 18:42 art.scnassets
+-rw-r--r--  1 KingPerez  staff     0 Nov 17 19:45 kundapura.txt
+
+./Assets.xcassets:
+total 8
+drwxr-xr-x  4 KingPerez  staff  128 Nov 17 18:27 .
+drwxr-xr-x  9 KingPerez  staff  288 Nov 17 19:45 ..
+drwxr-xr-x  3 KingPerez  staff   96 Nov 17 18:27 AppIcon.appiconset
+-rw-r--r--@ 1 KingPerez  staff   62 Nov 17 18:26 Contents.json
+	com.apple.TextEncoding	 15 
+
+./Assets.xcassets/AppIcon.appiconset:
+total 8
+drwxr-xr-x  3 KingPerez  staff    96 Nov 17 18:27 .
+drwxr-xr-x  4 KingPerez  staff   128 Nov 17 18:27 ..
+-rw-r--r--  1 KingPerez  staff  1590 Nov 17 18:27 Contents.json
+
+./Base.lproj:
+total 16
+drwxr-xr-x  4 KingPerez  staff   128 Nov 17 18:27 .
+drwxr-xr-x  9 KingPerez  staff   288 Nov 17 19:45 ..
+-rw-r--r--@ 1 KingPerez  staff  1658 Nov 17 18:27 LaunchScreen.storyboard
+	com.apple.TextEncoding	  15 
+-rw-r--r--@ 1 KingPerez  staff  2767 Nov 17 18:26 Main.storyboard
+	com.apple.TextEncoding	  15 
+	com.apple.lastuseddate#PS	  16 
+
+./art.scnassets:
+total 7096
+drwxr-xr-x  5 KingPerez  staff      160 Nov 17 18:42 .
+drwxr-xr-x  9 KingPerez  staff      288 Nov 17 19:45 ..
+-rw-r--r--@ 1 KingPerez  staff  3144468 Nov 17 18:39 AREarth.jpg
+	com.apple.FinderInfo	     32 
+	com.apple.lastuseddate#PS	     16 
+	com.apple.metadata:_kMDItemUserTags	     42 
+	com.apple.metadata:kMDItemDownloadedDate	     53 
+	com.apple.metadata:kMDItemWhereFroms	    119 
+	com.apple.metadata:kMDLabel_c4dciayupjclfqsyluu7jor4sy	     89 
+	com.apple.quarantine	     57 
+-rw-r--r--@ 1 KingPerez  staff   214794 May  1  2018 ship.scn
+	com.apple.lastuseddate#PS	     16 
+-rw-r--r--  1 KingPerez  staff   349666 May  1  2018 texture.png
